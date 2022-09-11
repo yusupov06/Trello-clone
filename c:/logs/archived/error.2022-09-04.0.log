@@ -1,9 +1,0 @@
-09:54:28.367 [http-nio-8080-exec-1] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Bad credentials
-10:31:02.784 [http-nio-8080-exec-6] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-14:28:47.684 [http-nio-8080-exec-4] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-14:30:55.945 [http-nio-8080-exec-7] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-15:52:31.945 [http-nio-8080-exec-2] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-18:10:52.194 [http-nio-8080-exec-1] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-18:14:09.251 [http-nio-8080-exec-3] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-19:45:42.167 [http-nio-8080-exec-1] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
-22:07:56.558 [http-nio-8080-exec-3] ERROR u.m.t.config.security.AuthEntryPoint - Unauthorized error: Full authentication is required to access this resource
